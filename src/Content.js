@@ -7,6 +7,7 @@ function app() {
         <a
           href="https://github.com/tejashhxd"
           target="_blank"
+          rel="noreferrer"
           class="github-link"
         >
           GitHub

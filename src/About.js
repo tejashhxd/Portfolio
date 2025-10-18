@@ -12,7 +12,7 @@ export default function App() {
     if (isInView){
       maincontrol.start("visible")
     }
-  }, [isInView]);
+  }, [isInView, maincontrol]);
   return (
     <>
       <motion.div

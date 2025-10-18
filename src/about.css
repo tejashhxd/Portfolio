@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     height: 100vh;
+    margin: 20px;
 
 }
 
@@ -21,4 +22,19 @@
     font-size: 30px;
     color: rgba(174, 169, 169, 0.795);
     height: 90%;
+}
+
+@keyframes appears {
+    from {
+        opacity: 0;
+        scale: 0.5;
+    }
+    to{
+        opacity: 1;
+        scale: 1;
+    }
+}
+
+.container{
+    animation: appears 2.5s linear;
 }

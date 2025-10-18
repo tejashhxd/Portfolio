@@ -1,5 +1,6 @@
 import "./content.css";
 
+
 function app() {
   return (
     <div class="horizontal-section">

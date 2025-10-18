@@ -21,13 +21,13 @@
 
 .skill-card {
   background: rgba(255, 255, 255, 0.05);
-  border: 2px solid white;
+  border: 2px solid rgb(199, 197, 197);
   border-radius: 10px;
   width: 250px;
   padding: 20px;
   text-align: center;
   text-decoration: none;
-  color: #cfd8e3;
+  color: #bfc1c5;
   transition: all 0.3s ease;
 }
 

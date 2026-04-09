@@ -2,9 +2,9 @@ import "./navbar.css";
 
 function app() {
   return (
-    <nav class="navbar">
-      <div class="nav-left">Tejash Kumar</div>
-      <div class="nav-right">
+    <nav className="navbar">
+      <div className="nav-left">Tejash Kumar</div>
+      <div className="nav-right">
         <a href="mailto:tejashkumar1316@gmail.com" class="nav-link">
           Contact
         </a>
